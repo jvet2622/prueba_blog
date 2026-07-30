@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  description: "mi primer blog"
+  site-url: https://your-website-url.example.com # you must change this appropriately for RSS feeds to work properly
+  title: "prueba_blog"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/
+      - icon: bluesky
+        href: https://bsky.app/
+format:
+  html:
+    theme:
+      - Simplex
+      - brand
+      - tema.scss
+    css: styles.css
+
+
+

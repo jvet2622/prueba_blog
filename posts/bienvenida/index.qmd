@@ -1,0 +1,26 @@
+---
+title: Bienvenida
+author: Jorge Valenzuela
+date: '2026-07-29'
+categories: pruebas
+---
+
+
+
+##  Hello World!
+
+Este es mi primer blog 
+
+### esto es una prueba 
+
+aprendiendo a **sumar**
+```{r}
+
+
+
+2+2
+
+
+```
+
+

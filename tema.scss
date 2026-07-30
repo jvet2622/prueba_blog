@@ -1,0 +1,23 @@
+/*-- scss:defaults --*/
+$primary: #b0c4b1;
+$secondary: #4a5759;
+
+/* principales */
+$body-bg: #adb5bd; // fondo
+$body-color: #4a5759; // texto
+$link-color: #b0c4b1; // enlaces
+$border-color: #C7C3B7; // líneas
+$code-block-bg: #C7C3B7; // fondo de código
+
+/* barra de navegación */
+$navbar-bg: #4a5759;// fondo
+$navbar-fg: #dedb52;// texto
+
+/* tipografia */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+$font-family-sans-serif: "Roboto Condensed", sans-serif;
+
+
+h1, h2, h3, h4, h5 {
+  font-family: "Roboto Condensed", sans-serif;
+}

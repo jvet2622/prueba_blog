@@ -1,0 +1,17 @@
+{
+  "hash": "25fa3b6b9a4e89d83f4cecb0a7e92c81",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: Bienvenida\nauthor: Jorge Valenzuela\ndate: '2026-07-29'\ncategories: pruebas\n---\n\n\n\n##  Hello World!\n\nEste es mi primer blog \n\n### esto es una prueba \n\naprendiendo a **sumar**\n\n::: {.cell}\n\n```{.r .cell-code}\n2+2\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 4\n```\n\n\n:::\n:::\n\n\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
