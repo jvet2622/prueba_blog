@@ -16,8 +16,7 @@ website:
 format:
   html:
     theme:
-      - Simplex
-      - brand
+      - flatly
       - tema.scss
     css: styles.css
 
