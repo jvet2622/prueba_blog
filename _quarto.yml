@@ -1,15 +1,16 @@
 project:
-  type: website
+    type: website
+    output-dir: docs # cambiar carpeta donde se construye el sitio
 
 website:
   description: "mi primer blog"
-  site-url: https://your-website-url.example.com # you must change this appropriately for RSS feeds to work properly
+  site-url: https://jvet2622.github.io/prueba_blog
   title: "prueba_blog"
   navbar:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/jvet2622/prueba_blog
       - icon: bluesky
         href: https://bsky.app/
 format:

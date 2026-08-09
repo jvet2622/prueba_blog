@@ -6,7 +6,7 @@
   </url>
   <url>
     <loc>https://your-website-url.example.com/posts/bienvenida/index.html</loc>
-    <lastmod>2026-07-30T00:39:20.936Z</lastmod>
+    <lastmod>2026-07-30T01:27:35.176Z</lastmod>
   </url>
   <url>
     <loc>https://your-website-url.example.com/about.html</loc>
@@ -19,5 +19,9 @@
   <url>
     <loc>https://your-website-url.example.com/posts/post-with-code/index.html</loc>
     <lastmod>2026-07-29T23:53:09.957Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jvet2622.github.io/prueba_blog/index.html</loc>
+    <lastmod>2026-07-30T00:58:59.650Z</lastmod>
   </url>
 </urlset>
