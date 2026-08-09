@@ -5,7 +5,7 @@ project:
 website:
   description: "mi primer blog"
   site-url: https://jvet2622.github.io/prueba_blog
-  title: "prueba_blog"
+  title: "Esto no es un blog"
   navbar:
     right:
       - about.qmd
